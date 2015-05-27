@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FL3R Randavatar\n"
+"POT-Creation-Date: 2015-05-22 20:52+0100\n"
+"PO-Revision-Date: 2015-05-22 20:52+0100\n"
+"Last-Translator: Armando \"FL3R\" Fiore\n"
+"Language-Team: Armando \"FL3R\" Fiore\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: randavatar.php:409
+msgid ""
+"(⌒‿⌒) Settings saved. Delete cache to see your new settings. If you like "
+"this plugin, you consider making a small donation. "
+msgstr ""
+"(⌒‿⌒) Impostazioni salvate. Svuota la cache per vedere le nuove "
+"impostazioni. Se ti piace questo plugin, considera una piccola donazione."
+
+#: randavatar.php:429
+msgid "ლ(ಠ益ಠლ) The cache is now empty. What did you do?"
+msgstr "ლ(ಠ益ಠლ) La cache è stata svuotata. Che cosa hai fatto?"
+
+#: randavatar.php:484
+msgid "FL3R Randavatar - Settings"
+msgstr "FL3R Randavatar - Impostazioni"
+
+#: randavatar.php:492 randavatar.php:520
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: randavatar.php:495 randavatar.php:523 randavatar.php:603
+msgid "FAQ"
+msgstr "FAQ"
+
+#: randavatar.php:498 randavatar.php:526 randavatar.php:645
+msgid "Credits"
+msgstr "Crediti"
+
+#: randavatar.php:501 randavatar.php:529 randavatar.php:676
+msgid "Donate"
+msgstr "Donazioni"
+
+#: randavatar.php:504 randavatar.php:532 randavatar.php:686
+msgid "Changelog"
+msgstr "Changelog"
+
+#: randavatar.php:507 randavatar.php:535 randavatar.php:697
+msgid "My plugins"
+msgstr "I miei plugin"
+
+#: randavatar.php:543 randavatar.php:709 randavatar.php:710
+msgid "FL3R Randavatar"
+msgstr "FL3R Randavatar"
+
+#: randavatar.php:543
+msgid "You currently have"
+msgstr "Attualmente ci sono"
+
+#: randavatar.php:543
+msgid "randavatars cached on your website on"
+msgstr "randavatar nella cache del tuo sito su"
+
+#: randavatar.php:543
+msgid "possible avatars!"
+msgstr "possibili avatar!"
+
+#: randavatar.php:546
+msgid "Randavatars size"
+msgstr "Dimensioni randavatar"
+
+#: randavatar.php:546
+msgid "in pixels (default: 80)"
+msgstr "in pixel (predefinito: 80)"
+
+#: randavatar.php:549
+msgid "Background color"
+msgstr "Sfondo"
+
+#: randavatar.php:549
+msgid " - Enter single value or range (default, transparent: 0-0,0-0,0-0)"
+msgstr ""
+" - Inserisci un valore assoluto o un intervallo (predefinito, trasparente: "
+"0-0,0-0,0-0)"
+
+#: randavatar.php:550
+msgid "Red:"
+msgstr "Rosso:"
+
+#: randavatar.php:552
+msgid "Green:"
+msgstr "Verde:"
+
+#: randavatar.php:554
+msgid "Blue:"
+msgstr "Blu:"
+
+#: randavatar.php:559
+msgid "Default randavatars"
+msgstr "Randavatar nel sito"
+
+#: randavatar.php:559
+msgid ""
+" - Adds a randavatar automatically beside commenter names or disable it and "
+"edit theme file manually (default: Auto)"
+msgstr ""
+"- Aggiungi un randavatar automaticamente o disibilitali per modificare "
+"manualmente i file del tema (predefinito: Automatici)"
+
+#: randavatar.php:561
+msgid "Auto"
+msgstr "Automatici"
+
+#: randavatar.php:563
+msgid "Manual"
+msgstr "Manuali"
+
+#: randavatar.php:565
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: randavatar.php:565
+msgid ""
+" - If a commenter has a Gravatar use it, otherwise use randavatars (default: "
+"Randavatar)"
+msgstr ""
+"- Se un utente che commenta ha un Gravatar, utlizza quest'ultimo; in "
+"alternativa usa un randavatar (predefinito: Randavatar)"
+
+#: randavatar.php:567
+msgid "Randavatar"
+msgstr "Randavatar"
+
+#: randavatar.php:569
+msgid "Randavatars + Gravatar"
+msgstr "Randavatar + Gravatar"
+
+#: randavatar.php:576
+msgid "Save settings"
+msgstr "Salva le impostazioni"
+
+#: randavatar.php:583
+msgid "Clear cache"
+msgstr "Svuota la cache"
+
+#: randavatar.php:588
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+#: randavatar.php:594
+msgid "Save CSS"
+msgstr "Salva il CSS"
+
+#: randavatar.php:595
+msgid "Reset CSS"
+msgstr "Reimposta il CSS"
+
+#: randavatar.php:607
+msgid "How can I show randavatars in a widget?"
+msgstr "Come posso mostrare i randavatar in un widget?"
+
+#: randavatar.php:610
+msgid "You can use the FL3R Randavatar widget."
+msgstr "Ti basta usare il widget FL3R Randavatar."
+
+#: randavatar.php:614
+msgid "How can I manually insert randavatars in my theme?"
+msgstr "Come posso inserire i randavatar nel mio tema manualmente?"
+
+#: randavatar.php:617
+msgid "You can do this with "
+msgstr "Puoi farlo inserendo "
+
+#: randavatar.php:619
+msgid " in your comments.php or if you want only the image URL you can use "
+msgstr ""
+" nel tuo file comments.php o se vuoi solo l'indirizzo di un'immagine puoi "
+"usare "
+
+#: randavatar.php:623
+msgid "I can not see randavatars. Why?"
+msgstr "Non vedo i randavatar. Come mai?"
+
+#: randavatar.php:626
+msgid ""
+"Make sure sure the folder <code>wp-content/plugins/fl3r-randavatar</code> is "
+"<a href=\"http://codex.wordpress.org/Changing_File_Permissions\">writeable</"
+"a>."
+msgstr ""
+"Controlla che la cartella <code>wp-content/plugins/fl3r-randavatar</code> "
+"abbia un <a href=\"http://codex.wordpress.org/Changing_File_Permissions"
+"\">accesso alla scrittura</a>."
+
+#: randavatar.php:630
+msgid "How can I know randavatars works properly?"
+msgstr "Come posso essere sicuro che i randavatar funzionino correttamente?"
+
+#: randavatar.php:633
+msgid "A random generated randavatar should be here. "
+msgstr "Un randavatar casuale si trova proprio qui."
+
+#: randavatar.php:648
+msgid "Randavatar is a plugin created by Armando \"FL3R\" Fiore."
+msgstr "Randavatar è un plugin creato da Armando \"FL3R\" Fiore."
+
+#: randavatar.php:651
+msgid ""
+"Thanks for using Randavatar, you helped a developer to increase his self-"
+"esteem!"
+msgstr ""
+"Grazie per usare Randavatar, hai aiutato uno sviluppatore ad incrementare la "
+"sua autostima!"
+
+#: randavatar.php:654
+msgid "Copyright"
+msgstr "Copyright"
+
+#: randavatar.php:657
+msgid ""
+"Copyright © 2015 Armando \"FL3R\" Fiore. All rights reserved. This software "
+"is provided as is, without any express or implied warranty. In no event "
+"shall the author be liable for any damage arising from the use of this "
+"software."
+msgstr ""
+"Copyright © 2015 Armando \"FL3R\" Fiore. Tutti i diritti riservati. Questo "
+"software è fornito così com'è, senza alcuna espressa o implicita garanzia. "
+"In nessuno caso l'autore può essere ritenuto responsabile per qualsiasi "
+"danno derivato dall'utilizzo di questo software."
+
+#: randavatar.php:660
+msgid "Portions of the code is based on WP_MonsterID plugin by scottsm."
+msgstr "Porzioni del codice sono basati sul plugin WP_MonsterID di scottsm."
+
+#: randavatar.php:663
+msgid ""
+"This plugin uses modified images from original works of Emoji One. The "
+"original Emoji One's emoji graphics are free to use for any project, "
+"commercial or personal under a \"Free Culture\" Creative Commons License (CC-"
+"BY-SA)."
+msgstr ""
+"Questo plugin usa versioni modificate di immagini originali di Emonji One. "
+"Le emoji originali di Emoji One sono disponibili gratuitamente per qualsiasi "
+"tipo di progetto, commerciale o personale sotto la licenza \"Cultura Libera"
+"\" Creative Commons License (CC-BY-SA)."
+
+#: randavatar.php:666
+msgid "Follow me!"
+msgstr "Seguimi!"
+
+#: randavatar.php:669
+msgid ""
+"If you want to ask me, you want to send your opinion or you have a question "
+"please don't hesitate to contact me."
+msgstr ""
+"Se vuoi inviarmi un'opinione o hai una domanda da pormi non esitare a "
+"contattarmi."
+
+#: randavatar.php:679
+msgid "If you like this plugin, you consider making a small donation. Thanks."
+msgstr "Se ti piace questo plugin, considera una piccola donazione. Grazie."
+
+#: randavatar.php:690
+msgid "First release. 142.272 avatars can be created."
+msgstr "Primo rilascio. Possono essere generati 142.272 avatar."
+
+#: randavatar.php:699 randavatar.php:700
+msgid "FL3R FeelBox"
+msgstr "FL3R FeelBox"
+
+#: randavatar.php:702
+msgid ""
+"adds an one-click real-time mood rating FeelBox to all of your posts. Oh, "
+"there is also a widget."
+msgstr ""
+"aggiunge un sistema di votazione delle reazioni FeelBox a tutti i tuoi post. "
+"Oh, c'è anche un widget."
+
+#: randavatar.php:704 randavatar.php:705
+msgid "FL3R User Agent Comments"
+msgstr "FL3R User Agent Comments"
+
+#: randavatar.php:707
+msgid ""
+"show the browser and the operating system of your users in the comments and "
+"create a chain of comments most beautiful and interesting to read!"
+msgstr ""
+"mostra il browser ed il sistema operativo dei tuoi utenti nei commenti e "
+"crea una catena di commenti più accattivante da leggere!"
+
+#: randavatar.php:712
+msgid ""
+"provides a large randomly assembled avatar for each user based on their "
+"email address. When a user comments on the site, the plugin generates a "
+"unique avatar based on his email. There are an impressive number of avatars "
+"that can be generated, and it increases at each update of the plugin! "
+msgstr ""
+"sviluppa un grande numero di avatar casuali per gli utenti generati in base "
+"alle loro email. Quando un utente commenta sul sito, il plugin genera un "
+"avatar univoco basato sulla sua email. Il numero di avatar creabili è "
+"impressionante, ed aumenta ad ogni aggiornamento del plugin!"
+
+#: randavatar.php:1024
+msgid "Recent Comments"
+msgstr "Commenti Recenti"
+
+#: randavatar.php:1049
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s su %2$s"
+
+#: randavatar.php:1085
+msgid "Title:"
+msgstr "Titolo"
+
+#: randavatar.php:1091
+msgid "Number of comments to show:"
+msgstr "Numero di commenti da mostrare:"
+
+#: randavatar.php:1094
+msgid "(at most 15)"
+msgstr "(al massimo 15)"
+
+#: randavatar.php:1098
+msgid "Size of widget Randavatar (pixels):"
+msgstr "Dimensione del widget Randavatar (in pixel):"
+
+#: randavatar.php:1104
+msgid "CSS for widget:"
+msgstr "CSS per questo widget:"
+
+#: randavatar.php:1112
+msgid "Reset CSS to Default:"
+msgstr "Reimposta il CSS:"
